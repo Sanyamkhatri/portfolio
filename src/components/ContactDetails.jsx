@@ -19,7 +19,7 @@ const ContactDetails = () => {
             transition={{ duration: 0.1 }}
             className="absolute inset-0 py-1 md:py-2 text-white bg-stone-950 border-none rounded-full"
           >
-            vikasipar4@gmail.com
+            prateek767@gmail.com
           </motion.div>
           <motion.div
             variants={{
@@ -29,7 +29,7 @@ const ContactDetails = () => {
             transition={{ duration: 0.1, type: "tween", ease: "easeIn" }}
             className="relative rounded-full py-1 md:py-2 px-6 text-stone-950 bg-stone-200 border-none"
           >
-            vikasipar4@gmail.com
+            contact@shrikhatushyamji.digital
           </motion.div>
         </motion.div>
 
@@ -47,7 +47,7 @@ const ContactDetails = () => {
             transition={{ duration: 0.1 }}
             className="absolute inset-0 py-1 md:py-2 text-white bg-stone-950 border-none rounded-full"
           >
-            +91 8329909096
+            +91 8905589431
           </motion.div>
           <motion.div
             variants={{
@@ -57,7 +57,7 @@ const ContactDetails = () => {
             transition={{ duration: 0.1, type: "tween", ease: "easeIn" }}
             className="relative rounded-full py-1 md:py-2 px-6 text-stone-950 bg-stone-200 border-none"
           >
-            +91 8329909096
+            +91 9024411739
           </motion.div>
         </motion.div>
       </div>

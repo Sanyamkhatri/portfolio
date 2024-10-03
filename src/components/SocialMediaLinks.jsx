@@ -34,19 +34,15 @@ const SocialMediaLinks = () => {
   const socialLinks = [
     {
       name: "Twitter",
-      url: "https://x.com/vikas_ipar?t=xdfw_bSJLdFN8dykcCSWZw&s=08",
-    },
-    {
-      name: "LinkedIn",
-      url: "https://www.linkedin.com/in/vikas-ipar/",
+      url: "/",
     },
     {
       name: "GitHub",
-      url: "https://github.com/vikasipar",
+      url: "https://GitHub.com/sycophant21",
     },
     {
       name: "Portfolio",
-      url: "https://vikasipar.me",
+      url: "https://spotty-lark-dc4.notion.site/Shri-KhatuShyam-Ji-Digital-Portfolio-11431914804780bfb969ed3582915f94",
     },
   ];
 

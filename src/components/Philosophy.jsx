@@ -26,7 +26,7 @@ const Philosophy = () => {
             <br className="hidden md:block" />
             designers, strategists and analysts.{" "}
             <br className="hidden md:block" />
-            Cuberto doesn't do cookie-cutter <br className="hidden md:block" />
+            Our Agency doesn't do cookie-cutter <br className="hidden md:block" />
             solutions and we build products exactly{" "}
             <br className="hidden md:block" />
             as they were during the design phase, No &nbsp;

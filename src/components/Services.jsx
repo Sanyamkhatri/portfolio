@@ -13,7 +13,7 @@ const Services = () => {
       ></video>
       <div className="space-y-9 text-xl md:text-2xl px-6 md:px-0 font-normal">
         <p>
-          Cuberto is a leading digital product{" "}
+          Shri KhatuShyam Ji Digital is a leading digital product{" "}
           <br className="hidden md:block" />
           agency focused on branding, UI/UX <br className="hidden md:block" />
           design, mobile, and web <br className="hidden md:block" />
